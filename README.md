@@ -41,7 +41,7 @@ bundle exec pry -r ./config/environment
 ```
 
 # Observation:
-* if user has laspass chrome extension active, it creates an empty <div> element in the new user form that looks like a bug:
+* if user has lastpass chrome extension active, it creates an empty <div> element in the new user form that looks like a bug:
 
   
 ![Screenshot 2024-03-07 at 1 27 01 PM](https://github.com/jcschneider79/tier3-tech-quiz/assets/7387655/c6ba035a-4a92-406d-8881-69f223400b39)
